@@ -1,0 +1,40 @@
+{
+  "records": [
+    {
+      "id": "1",
+      "data": "2018-07-20",
+      "title": "title 1",
+      "amount": 84
+    },
+    {
+      "id": "2",
+      "data": "2018-07-20",
+      "title": "title 2",
+      "amount": 82
+    },
+    {
+      "id": "3",
+      "data": "2018-07-20",
+      "title": "title 3",
+      "amount": 29
+    },
+    {
+      "id": "4",
+      "data": "2018-07-20",
+      "title": "title 4",
+      "amount": 49
+    },
+    {
+      "id": "5",
+      "data": "2018-07-20",
+      "title": "title 5",
+      "amount": 52
+    },
+    {
+      "id": "6",
+      "data": "2018-07-21",
+      "title": "title 6",
+      "amount": "88"
+    }
+  ]
+}
